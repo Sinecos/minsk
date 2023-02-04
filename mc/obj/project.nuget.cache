@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkHoiQOF7EaZlYHb5UNV8GQo9CUJ+eJe1fRbSVa8zuN0cVBequ55LxNW8V8cskxE6n3QbeQ2pD35WYbUWX/g8Q==",
+  "dgSpecHash": "tiW/a4HXxc9kCuntPzLcd/wR/GGtCsaknCATWdHJub6PEageI4x4HSTwPg+hB6hzCZXDxfnKAwCBBSNWpdMNBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milah\\Documents\\minsk\\mc\\mc.csproj",
+  "projectFilePath": "/home/theal/Documents/minsk/mc/mc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

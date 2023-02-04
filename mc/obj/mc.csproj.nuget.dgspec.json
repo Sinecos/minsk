@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milah\\Documents\\minsk\\mc\\mc.csproj": {}
+    "/home/theal/Documents/minsk/mc/mc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milah\\Documents\\minsk\\mc\\mc.csproj": {
+    "/home/theal/Documents/minsk/mc/mc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milah\\Documents\\minsk\\mc\\mc.csproj",
+        "projectUniqueName": "/home/theal/Documents/minsk/mc/mc.csproj",
         "projectName": "mc",
-        "projectPath": "C:\\Users\\milah\\Documents\\minsk\\mc\\mc.csproj",
-        "packagesPath": "C:\\Users\\milah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milah\\Documents\\minsk\\mc\\obj\\",
+        "projectPath": "/home/theal/Documents/minsk/mc/mc.csproj",
+        "packagesPath": "/home/theal/.nuget/packages/",
+        "outputPath": "/home/theal/Documents/minsk/mc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\milah\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/theal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
