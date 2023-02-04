@@ -2,7 +2,7 @@
 
 namespace mc
 {
-    https://youtu.be/wgHIkdUQbp0?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y&t=2439
+    //https://youtu.be/wgHIkdUQbp0?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y&t=2439
  
     // 1 + 2 * 3
     // 
